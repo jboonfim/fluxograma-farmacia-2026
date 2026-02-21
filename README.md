@@ -59,9 +59,3 @@ Atualização e adequação ao Currículo 2026.1: Jakson Bonfim
 GitHub:  
 https://github.com/DantasB  
 https://github.com/jboonfim  
-
----
-
-## Licença
-
-Projeto de uso acadêmico e educacional.
