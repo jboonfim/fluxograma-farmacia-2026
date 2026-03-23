@@ -72,7 +72,7 @@ window.courses = [
     { name: "Gen e Bio Mol Aplicadas à Farm", credits: 2, code: "FFW484", semester: 8, requirements: [0, 6] },
     { name: "Biotecnologia Farmacêutica", credits: 2, code: "FFW485", semester: 8, requirements: [32] },
     { name: "Metodologia Científica", credits: 2, code: "FFW486", semester: 8 },
-    { name: "Est Sup em Farmácia Magistral", credits: 1, code: "FFWU11", semester: 8, requirements: [43] },
+    { name: "Est Sup em Farmácia Magistral", credits: 1, code: "FFWU11", semester: 8, requirements: [42] },
     { name: "Atividades Acad. Optativas", credits: 4, semester: 8 },
 
     // 9º Período
